@@ -94,4 +94,4 @@ MIT License - Libre para usar y modificar.
 
 ---
 
-Desarrollado con ❤️ para visualizar metadatos de forma sencilla.
+
